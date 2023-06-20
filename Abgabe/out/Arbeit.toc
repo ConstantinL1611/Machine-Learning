@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Aufgabe}{1}{section.1}%
+\contentsline {section}{\numberline {2}Aufgabenteil a}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Aufgabenteil a1}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Aufgabenteil a2}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Aufgabenteil a3}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Aufgabenteil a4}{13}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Aufgabenteil b}{19}{section.3}%
+\contentsline {section}{\numberline {4}Bibliotheken}{23}{section.4}%
